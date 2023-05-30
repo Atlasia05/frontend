@@ -1,7 +1,6 @@
 <?php
 // 링크 이동 
 class Lib
-my name is wonchan
 {
     public static function MsgAndBack($msg) {
         echo "<script>";
